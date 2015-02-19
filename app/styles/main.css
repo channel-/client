@@ -1,0 +1,60 @@
+.header{
+  text-align: center;
+  border: solid;
+  border-color: #FFF;
+}
+.header-title {
+  background-color: #3F51B5;
+  color: #E8EAF6;
+}
+.main{
+  color: #E8EAF6;
+  background-color: #3F51B5;
+  border: solid;
+  border-color: #FFF;
+}
+.btn-indigo {
+  color: #E8EAF6;
+  background-color: #3F51B5;
+  border-color: #5C6BC0;
+}
+.btn-indigo:hover,
+.btn-indigo:focus,
+.btn-indigo.focus,
+.btn-indigo:active,
+.btn-indigo.active,
+.open > .dropdown-toggle.btn-indigo {
+  color: #E8EAF6;
+  background-color: #1A237E;
+  border-color: #5C6BC0;
+}
+.btn-indigo:active,
+.btn-indigo.active,
+.open > .dropdown-toggle.btn-indigo {
+  background-image: none;
+}
+.btn-indigo.disabled,
+.btn-indigo[disabled],
+fieldset[disabled] .btn-indigo,
+.btn-indigo.disabled:hover,
+.btn-indigo[disabled]:hover,
+fieldset[disabled] .btn-indigo:hover,
+.btn-indigo.disabled:focus,
+.btn-indigo[disabled]:focus,
+fieldset[disabled] .btn-indigo:focus,
+.btn-indigo.disabled.focus,
+.btn-indigo[disabled].focus,
+fieldset[disabled] .btn-indigo.focus,
+.btn-indigo.disabled:active,
+.btn-indigo[disabled]:active,
+fieldset[disabled] .btn-indigo:active,
+.btn-indigo.disabled.active,
+.btn-indigo[disabled].active,
+fieldset[disabled] .btn-indigo.active {
+  background-color: #3F51B5;
+  border-color: #5C6BC0;
+}
+.btn-indigo .badge {
+  color: #E8EAF6;
+  background-color: #3F51B5;
+}
